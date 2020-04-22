@@ -1,5 +1,5 @@
-# VBA-Challenge
+The VBA of Wall Street
 
-Added the screenshots, 
-exported code file as .vba extension
-also added code as a txt file.
+## Background
+
+This project will use VBA scripting to analyze real stock market data. 
